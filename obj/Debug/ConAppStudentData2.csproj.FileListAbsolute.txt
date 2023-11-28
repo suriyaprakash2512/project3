@@ -1,0 +1,7 @@
+D:\ConAppStudentData2\bin\Debug\ConAppStudentData2.exe.config
+D:\ConAppStudentData2\bin\Debug\ConAppStudentData2.exe
+D:\ConAppStudentData2\bin\Debug\ConAppStudentData2.pdb
+D:\ConAppStudentData2\obj\Debug\ConAppStudentData2.csproj.AssemblyReference.cache
+D:\ConAppStudentData2\obj\Debug\ConAppStudentData2.csproj.CoreCompileInputs.cache
+D:\ConAppStudentData2\obj\Debug\ConAppStudentData2.exe
+D:\ConAppStudentData2\obj\Debug\ConAppStudentData2.pdb

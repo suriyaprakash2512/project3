@@ -1,0 +1,15 @@
+Suresh,8B
+Kavita sambath,12A
+Ajithkumar,4C 
+Deepika,7B 
+venkat,3A
+Karansharma,6C   
+Priya Patel,5D
+Ankit pavan,12A
+Aarti Reddy,9C  
+Suresh Verma,10B
+Rahul Sharma,11D
+Ananya pavi,4A
+Arjun Patel,2B
+Harini,7D
+Rohit sharma,9A
